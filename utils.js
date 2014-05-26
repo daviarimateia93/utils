@@ -1,4 +1,6 @@
-﻿var Utils = {
+﻿//Created by Davi de Sousa Arimateia, daviarimateia93@gmail.com
+
+var Utils = {
 		
 	map: function ()
 	{
